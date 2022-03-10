@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Poppins";
+  src: url("assets/font/Poppins-Regular.ttf") format("ttf");
+       
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("assets/font/Montserrat-Regular.ttf") format("ttf");
+       
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", Sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+  color:white;
+  /* color:white; */
+}

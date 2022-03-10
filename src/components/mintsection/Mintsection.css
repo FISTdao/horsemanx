@@ -1,0 +1,17 @@
+.btn-round {
+    border-radius: 30px;
+}
+.my-card-container
+{
+    max-width: 700px;
+    background-color: black;
+    text-align: center;
+    margin:auto;
+    color:white;
+}
+.content-style{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}

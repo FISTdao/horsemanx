@@ -1,0 +1,21 @@
+.team-card-container{
+    border-radius:30px;
+    background-color:transparent;
+    border:1px solid black;
+}
+.img-avatar-size
+{
+    width:50px;
+}
+.team-padding{
+    padding:10px 30px;
+}
+.team_img:hover{
+    opacity: 80%;
+}
+@media screen and (max-width:768px){
+    .img-avatar-size{
+        width:30px;
+    }
+    
+}
